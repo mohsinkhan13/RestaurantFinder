@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Just Eat Restaurant Finder</h1>
+    <form asp-controller="Home" asp-action="Restaurants">
+        <p>
+            Post Code: <input type="text" name="SearchString">
+            <input type="submit" value="Find" />
+        </p>
+    </form>
+</div>
