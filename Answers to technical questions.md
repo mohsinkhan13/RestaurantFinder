@@ -53,7 +53,7 @@ public void ConfigureServices(IServiceCollection services)
 - Check application metrics (this needs logs and metrics setup in place)  
 - Look out for calls that are taking more time  
 - This could be due to unnecessary retrys to a service that is consistently failing  
-- Resolve consisting failing service resolve the performance problem. This could require restarting VMs or upgrating to better compute if that is the root cause* *    
+- Fix consistently failing service to resolve the performance problem. This could require restarting VMs or upgrading to better compute if that is the root cause for service failure    
   
   
 4. How would you improve the Just Eat APIs that you just used?  
