@@ -1,4 +1,6 @@
-# RestaurantFinder
+# Just Eat Senior Developer Recruitment Test  
+
+## Technical questions
 
 1. How long did you spend on the coding test? What would you add to your solution if you had more time? If you didn't spend much time on the coding test then use this as an opportunity to explain what you would add.  
 **Answer:** * *I spent 2h 30m on this test. If I had more time, I would have added some more test cases. Also, as I have lost some touch with the front end, to save time, I have displayed expected result in json format.* *  
